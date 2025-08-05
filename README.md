@@ -111,11 +111,7 @@ An end-to-end **Streamlit-based ML application** featuring:
 
 ---
 
-## 🛠️ **Source Code**
 
-```bash
-git clone [https://github.com/DurgaPrasadPapugani/employee-salary-app.git](https://github.com/DurgA-5/SalaryPredictor.git)
-```
 
 ---
 
@@ -153,5 +149,6 @@ This project helped enhance my **AI/ML, software engineering**, and **deployment
 
 <img width="1484" height="1125" alt="image" src="https://github.com/user-attachments/assets/7aa8d557-c22e-45a1-b584-7e15e7e6ee28" />
 <img width="2000" height="934" alt="image" src="https://github.com/user-attachments/assets/010f4633-83e3-4ed7-99c1-b96507b50a48" />
+
 
 
